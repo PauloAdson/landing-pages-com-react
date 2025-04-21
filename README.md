@@ -10,8 +10,8 @@
 
 > ESSE REPOSITÓRIO FOI MOVIDO PARA OUTRO LUGAR, ATUALMENTE ESTOU UTILIZANDO ESSES:
 
-👉 [PAGES LINK - FRONT-END](https://github.com/PauloAdson/pageslink)  
-👉 [PAGES LINK - BACK-END](https://github.com/PauloAdson/pageslink-backend)
+- [PagesLink - FRONT-END](https://github.com/PauloAdson/pageslink)
+- [PagesLink - BACK-END](https://github.com/PauloAdson/pageslink-backend)
 
 <br>
 
